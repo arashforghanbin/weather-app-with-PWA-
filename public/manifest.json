@@ -5,7 +5,7 @@
     {
       "src": "/src/assets/images/rainy.png",
       "type": "image/png",
-      "sizes": "512*512"
+      "sizes": "1024*1024"
     }
   ],
   "start_url": ".",
