@@ -3,7 +3,7 @@
   "name": "Weather App with PWA",
   "icons": [
     {
-      "src": "/src/assets/images/rainy.png",
+      "src": "./images/rainy.png",
       "type": "image/png",
       "sizes": "1024*1024"
     }
